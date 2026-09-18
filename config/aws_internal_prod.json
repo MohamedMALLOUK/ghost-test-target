@@ -1,0 +1,9 @@
+{
+  "Version": "2023-10-15",
+  "Environment": "Production",
+  "Credentials": {
+    "AccessKeyId": "AKIA_GHOST_TRAP_FAKE_ID",
+    "SecretAccessKey": "vL_GHOST_FAKE_SECRET_DO_NOT_USE"
+  },
+  "Warning": "DO NOT SHARE THIS FILE OUTSIDE OF SECURE ENCLAVE"
+}
